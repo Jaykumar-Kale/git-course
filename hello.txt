@@ -1,4 +1,7 @@
 hi
 this is the .txt file for the git.
 
-learning the git & githhub in depth form the chai aur code.
+learning the git & github in depth form the chai aur code.
+
+
+i have installed the error Lens in the vscode.
